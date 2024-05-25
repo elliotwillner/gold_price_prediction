@@ -28,7 +28,7 @@ Gold Price Density Plot:
 
 ## Model Training
 
-The Random Forest Regressor was chosen due to its ability to handle large datasets and provide accurate predictions, along with its advantage over linear regression in that it can assist in prediction nonlinear relationships. The model was trained and tested using the preprocessed data. 
+The Random Forest Regressor was chosen due to its ability to handle large datasets and provide accurate predictions, along with its advantage over linear regression in that it can assist in prediction of nonlinear relationships. The model was trained and tested using the preprocessed data. 
 
 ```python
 from sklearn.ensemble import RandomForestRegressor
