@@ -2,7 +2,7 @@
 
 Elliot Willner
 
-This project aims to predict gold prices using machine learning techniques, specifically the Random Forest Regressor. The model achieves an R² error score of 0.99007 and an MSE of 5.44169, indicating a high level of accuracy in predicting gold prices.
+This project aims to predict gold prices using machine learning techniques, specifically the Random Forest Regressor, based on other assets' price data. The model achieves an R² error score of 0.99007 and an MSE of 5.44169, indicating a high level of accuracy in predicting gold prices.
 
 ## Introduction
 
